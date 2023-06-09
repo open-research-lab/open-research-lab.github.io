@@ -1,7 +1,7 @@
 ---
-title: "Open Research Lab - Home"
+title: "OpenResearch Lab - Home"
 layout: homelay
-excerpt: "Open Research Lab"
+excerpt: "OpenResearch Lab"
 sitemap: false
 permalink: /
 ---

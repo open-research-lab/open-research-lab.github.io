@@ -11,6 +11,7 @@ permalink: /publications/
 
 ## Conference
 
+Publications to be displayed here
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />

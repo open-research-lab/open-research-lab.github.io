@@ -44,14 +44,14 @@ We are a dynamic research group at the [California State University Long Beach](
   </a>
 </div>
 
-
-**Our Vision**
+cf
+### Our Vision
 We envision a world where curiosity knows no bounds and where research becomes a catalyst for positive change. We strive to create an inclusive and collaborative environment that fosters intellectual growth, sparks creativity, and encourages interdisciplinary exploration.
 
-**Our Mission**
+### Our Mission
 Our mission is to provide a supportive and stimulating research community that empowers individuals to pursue their intellectual passions and make meaningful contributions in the field of research. We aim to foster an atmosphere of curiosity, critical thinking, and innovation, where members can exchange ideas, collaborate on projects, and collectively advance knowledge in the field of artificial intelligence.
 
-**Join Us:**
+### Join Us
 Whether you are an undergraduate or a graduate student or simply someone with a burning curiosity for knowledge, we welcome you to join our research club. By becoming a member, you become part of a vibrant community dedicated to advancing knowledge, fostering innovation, and making a meaningful impact.
 
 Together, let's embark on a journey of exploration, discovery, and intellectual growth. Join the Research Club and be at the forefront of transformative research.
